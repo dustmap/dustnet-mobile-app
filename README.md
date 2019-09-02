@@ -39,10 +39,8 @@ The **Dustmap Mobile Companion App** accomplishes our [Mobile Dustmap Air Qualit
 
 **Available soon for both iOS and Android.**
 
-<p align="center">
-  This open source project has been generously supported by
-  [![netidee](https://www.netidee.at/themes/Netidee/images/netidee-logo-color.svg)](https://www.netidee.at).
-</p>
+This open source project has been generously supported by
+[![netidee](https://www.netidee.at/themes/Netidee/images/netidee-logo-color.svg)](https://www.netidee.at).
 
 ## Features
 
