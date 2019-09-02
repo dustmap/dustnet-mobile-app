@@ -37,6 +37,8 @@
 
 The **Dustmap Mobile Companion App** accomplishes our [Mobile Dustmap Air Quality Sensor Node based on the Sensirion SPS30](https://github.com/dustmap/dustnet-node-mobile). It is used both as a GPS provider for the current position and a screen to present results.
 
+A more detailed intoduction can be found on this [Netidee blog post](https://www.netidee.at/dustmap/die-app-zum-feinstaub) (German).
+
 **Available soon for both iOS and Android.**
 
 This open source project has been generously supported by
